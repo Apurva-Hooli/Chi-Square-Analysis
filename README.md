@@ -1,1 +1,1 @@
-# Chi-Square-Analysis
+# Customer Churn Rate using Chi-Squared Test
